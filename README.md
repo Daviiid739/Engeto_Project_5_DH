@@ -23,7 +23,7 @@ pip install mysql-connector-python pytest
 Před spuštěním je potřeba mít běžící MySQL server a vytvořenou databázi:
 
 ```sql
-CREATE DATABASE test;
+CREATE DATABASE task_manager;
 CREATE DATABASE test_task_manager;  -- pro testy
 ```
 
