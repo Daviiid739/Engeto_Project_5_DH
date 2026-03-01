@@ -1,4 +1,4 @@
-# Správce úkolů — Engeto Python Akademie, projekt 5
+# Správce úkolů - Engeto Python Akademie, projekt 5
 
 CLI aplikace pro správu úkolů s připojením na MySQL databázi.
 
